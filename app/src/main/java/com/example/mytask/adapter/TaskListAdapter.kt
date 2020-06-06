@@ -54,8 +54,8 @@ class TaskListAdapter internal constructor(
             holder.imageViewStatus.setBackgroundResource(R.drawable.ic_done);
         }
 
-
             holder?.bindView(task[position], listener)
+
     }
 
     internal fun setTasks(task: List<Task>) {
