@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyTask</string>
+    <string name="button_confirm">Confirm</string>
 </resources>
